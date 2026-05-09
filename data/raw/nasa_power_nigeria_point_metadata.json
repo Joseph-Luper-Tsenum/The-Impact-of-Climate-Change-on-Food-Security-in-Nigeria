@@ -1,0 +1,14 @@
+{
+  "source": "NASA POWER temporal/monthly/point",
+  "lat": 9.082,
+  "lon": 8.6753,
+  "start_year": 1981,
+  "end_year": 2025,
+  "downloaded_utc": "2026-05-09T18:41:44.377403Z",
+  "api_url": {
+    "version": "v2.8.3",
+    "name": "POWER Monthly and Annual API"
+  },
+  "title": "NASA/POWER Source Native Resolution Monthly and Annual",
+  "precip_variable_used": "PRECTOTCORR"
+}

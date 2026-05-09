@@ -1,0 +1,7 @@
+target,model,n_obs,cv_r2_mean,cv_r2_std
+cereal_yield_kg_per_ha,linear,44,-17.332792465101633,10.929344185577616
+cereal_yield_kg_per_ha,ridge,44,-17.144527341036593,10.049590163352462
+food_production_index,linear,42,-27.339537733543573,28.948740747073792
+food_production_index,ridge,42,-30.417726946014426,32.212247728816386
+prevalence_of_undernourishment_pct,linear,23,-30.193136587676964,27.4643699969438
+prevalence_of_undernourishment_pct,ridge,23,-30.686604949102257,27.790408808568586
